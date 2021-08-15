@@ -9,10 +9,12 @@
 ### Analysis of Outcomes Based on Launch Date
 <p>We can see there is a peak in May for successful outcomes, but it slowly decreases until December. It then increases again between Jan-Feb and March-May.</p>
 
-![outcomesVlaunch](https://github.com/mooshak21/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![outcomesVlaunch](https://github.com/mooshak21/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png "Theater Outcomes vs. Launch Date")
 
 ### Analysis of Outcomes Based on Goals
 <p>We can conclude that having a fundraising goal of $35K-40K is around the max amount that would work. We can conclude this because the chart plateaus in that range and then sharply decreases in regards to percentage successful.</p>
+
+![outcomesVgoals](https://github.com/mooshak21/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png "Outcomes vs Goals)
 
 ### Challenges and Difficulties Encountered
 <p>No Real challenges on my end. I feel like the instructions were very clear and made the process much easier. All I had to look up was the function:<br>
