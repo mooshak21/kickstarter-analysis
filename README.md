@@ -9,6 +9,7 @@
 ### Analysis of Outcomes Based on Launch Date
 <p>We can see there is a peak in May for successful outcomes, but it slowly decreases until December. It then increases again between Jan-Feb and March-May. Additionally, months with a higher number of successful campaigns also come with a hgiher number of failed campaign so we must take that into account. For example, May had 111 successful but on the other hand had 52 failed. One thing we should consider is the success rate based on launch date which would've been 68% for May (111/111+52. I won't consider cancelled plays as there are a small amount making them somewhat negligible). But if we look at success rates for months like January and December, they may seem to have low number of successes, but the rate is 63% (56/56+33) and 51% (37/37+35), respectively. That could be one deceiving aspect of this chart because the viewer can't understand the rate at which the campaigns are succeeding.</p>
 
+![outcomesVlaunch](https://github.com/mooshak21/kickstarter-analysis/blob/main/Resources/OutcomesLaunchPivot.png)
 ![outcomesVlaunch](https://github.com/mooshak21/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png "Theater Outcomes vs. Launch Date")
 
 ### Analysis of Outcomes Based on Goals
