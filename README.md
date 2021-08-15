@@ -35,5 +35,5 @@ COUNTIF - https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-
 ####- What are some limitations of this dataset?
 <p>One limitation I can think of is the lack of information of "largest donation made". For example, if we saw that one play received majority of the money that was funded from one person, we can kind of see that as an outlier because that won't happen in everyone's case. Another limitation is the inclusion of the live kickstarters. Having those included in our charts/analysis doesn't really help because we want to know about successes and failures.</p>
 
-####- What are some other possible tables and/or graphs that we could create?
+- ####What are some other possible tables and/or graphs that we could create?
 <p>Like I mentioned before, something that might give more insight than Outcomes vs Launch Date would be Outcome Rates vs. Launch Date. This would give more insight into the time periods that have the higher percentages of successful campaigns rather than just showing the number of each outcome.</p>
