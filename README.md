@@ -14,7 +14,9 @@
 
 ### Analysis of Outcomes Based on Goals
 <p>We can conclude that having a fundraising goal of $35K-40K is around the max amount that would work. We can conclude this because the chart plateaus in that range and then sharply decreases in regards to percentage successful. Based on my data, the highest success rates occur in the <$1000 and $1000-$4999 ranges with 74% and 70% success rates, respectively. The price range from $40000-$44999 provides a 63% success rate as well, but there are only 8 entries within that range, so that might not be the best place to look.</p>
-![outcomesVgoals](https://github.com/mooshak21/kickstarter-analysis/blob/main/Resources/OutcomesGoalsPivot.png)
+  
+![outcomesVgoals](https://github.com/mooshak21/kickstarter-analysis/blob/main/Resources/OutcomesGoalsPivot.png) 
+
 ![outcomesVgoals](https://github.com/mooshak21/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png "Outcomes vs Goals")
 
 ### Challenges and Difficulties Encountered
