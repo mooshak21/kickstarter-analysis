@@ -25,7 +25,7 @@ COUNTIF - https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-
 
 ## Results
 
-####- What are two conclusions you can draw about the Outcomes based on Launch Date?
+###- What are two conclusions you can draw about the Outcomes based on Launch Date?
 <p>1. The best time to start your kickstarter for a play is definitely in May as there is a peak in the graph at that time for successful plays.<br>
 2.The worst time to start your kickstarter for a play is definitely in October as there is a peak in the graph at that time for failed plays.</p>
 
